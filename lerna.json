@@ -2,11 +2,7 @@
   "lerna": "2.11.0",
   "version": "independent",
   "command": {
-    "version": {
-      "conventionalCommits": true
-    },
     "publish": {
-      "conventionalCommits": true,
       "registry": "http://localhost:4873"
     }
   }
