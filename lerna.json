@@ -4,7 +4,8 @@
   "command": {
     "version": {
       "noCommitHooks": true,
-      "conventionalCommits": true
+      "conventionalCommits": true,
+      "createRelease": "github"
     },
     "publish": {
       "ignoreScripts": true,
